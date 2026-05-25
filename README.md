@@ -180,14 +180,35 @@ startup-financial-kpi-analysis/
 
 ---
 
-## 🏢 Internship Project
 
-This project was completed as part of the **Elevate Labs Internship Program** and focuses on solving a real-world startup financial analytics problem using data-driven approaches.
+
+## 🏢 Internship Experience
+
+This project was completed as part of my **Data Analytics Internship at Elevate Labs**.
+
+During the internship, I worked on analyzing startup financial performance using business KPIs and dashboarding techniques to generate actionable insights.
+
+### Key Responsibilities & Learnings
+
+- Cleaned and prepared startup financial datasets using **Excel**
+- Performed KPI-based analysis using **Revenue, Burn Rate, CAC, LTV, Run Rate, and Churn Rate**
+- Computed and analyzed the **LTV:CAC Ratio** to evaluate customer profitability
+- Built interactive dashboards in **Tableau** for financial trend analysis
+- Conducted **Customer Cohort Analysis** to understand customer retention patterns
+- Generated business insights using data visualization and KPI monitoring
+- Strengthened practical skills in **Data Analytics, Business Intelligence, and Dashboard Development**
+
+This internship experience improved my ability to solve business problems using data-driven approaches and strengthened my hands-on analytics skills.
 
 ---
+
 
 ## 👩‍💻 Author
 
 **Yaswinipriya Sesetti**  
 📧 yaswinipriyasesetti1806@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/sesetti-yaswini-priya-95811925a
+
+
+
+
